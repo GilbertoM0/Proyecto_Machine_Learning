@@ -8,8 +8,10 @@
 > Cualquier duda, pregunta o comentario sobre este notebook, contactarme.
 
 # Explicación de las preguntas sobre mi proyecto:
-Este repositorio contiene respuestas acertadas sobre las preguntas dadas en clase, que incluye introducción a mi proyecto, ¿Qué problema se quiere resolver?, ¿Tienes datos suficientes y de calidad?
-y ¿Qué métrica indicará el éxito del modelo?
+Este repositorio contiene respuestas acertadas sobre las preguntas dadas en clase, que incluye introducción a mi proyecto:
+- ¿Qué problema se quiere resolver?
+- ¿Tienes datos suficientes y de calidad?
+- ¿Qué métrica indicará el éxito del modelo?
 
 ## Objetivos del Proyecto
 ### Objetivo General
