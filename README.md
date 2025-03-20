@@ -30,7 +30,7 @@ Clona este repositorio:
 
 `bash`
 ```python
-git clone https://github.com/GilbertoM0/Proyecto_Machine_Learnin.git
+git clone https://github.com/GilbertoM0/Proyecto_Machine_Learning.git
 ```
 
 ## Abre el Jupyter Notebook:
