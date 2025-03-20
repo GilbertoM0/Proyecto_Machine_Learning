@@ -36,7 +36,7 @@ git clone https://github.com/GilbertoM0/Proyecto_Machine_Learning.git
 ## Abre el Jupyter Notebook:
 `bash`
 ```python
-jupyter notebook notebooks/Proyecto_Machine_Learnin.ipynb
+jupyter notebook notebooks/Proyecto_Machine_Learning.ipynb
 ```
 
 # Gracias por visualizar todo el repositorio :)
